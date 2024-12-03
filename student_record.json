@@ -1,0 +1,121 @@
+{
+    "student_record": [
+        {
+            "id": "023A-00002",
+            "name": "IM NA YEON",
+            "birthdate": "09/22/95",
+            "sex": "Female",
+            "email": "nayeonyny@web.com",
+            "cpno": "09435142671",
+            "region": "NCR",
+            "province": "NATIONAL CAPITAL REGION - SECOND DISTRICT",
+            "city": "QUEZON CITY",
+            "brgy": "AMIHAN",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/nayeon.jpg"
+        },
+        {
+            "id": "023A-00003",
+            "name": "YOO KYUNG WAN",
+            "birthdate": "11/01/96",
+            "sex": "Female",
+            "email": "jy_piece@web.com",
+            "cpno": "09633452285",
+            "region": "REGION III",
+            "province": "BULACAN",
+            "city": "BULACAN",
+            "brgy": "PEREZ",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/jy.jpg"
+        },
+        {
+            "id": "023A-00004",
+            "name": "HIRAI MOMO",
+            "birthdate": "11/09/96",
+            "sex": "Female",
+            "email": "momo@web.com",
+            "cpno": "09856642311",
+            "region": "REGION IV-B",
+            "province": "PALAWAN",
+            "city": "CORON",
+            "brgy": "BARANGAY I (POB.)",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/momo.jpg"
+        },
+        {
+            "id": "023A-00005",
+            "name": "MINATOZAKI SANA",
+            "birthdate": "12/29/96",
+            "sex": "Female",
+            "email": "sanapomu@web.com",
+            "cpno": "09853321469",
+            "region": "REGION VIII",
+            "province": "LEYTE",
+            "city": "BAYBAY CITY",
+            "brgy": "BALAO",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/sana.jpg"
+        },
+        {
+            "id": "023A-00006",
+            "name": "MYOUI MINA",
+            "birthdate": "03/24/97",
+            "sex": "Female",
+            "email": "mina_sr_my@web.com",
+            "cpno": "0984126344",
+            "region": "REGION IV-A",
+            "province": "LAGUNA",
+            "city": "CABUYAO CITY",
+            "brgy": "BACLARAN",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/mina.jpg"
+        },
+        {
+            "id": "023A-00007",
+            "name": "KIM DA HYUN",
+            "birthdate": "05/28/98",
+            "sex": "Female",
+            "email": "dahhyunee@web.com",
+            "cpno": "09665842321",
+            "region": "REGION IV-A",
+            "province": "QUEZON",
+            "city": "CANDELARIA",
+            "brgy": "BUKAL NORTE",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/dahyun.jpg"
+        },
+        {
+            "id": "023A-00008",
+            "name": "SON CHAE YOUNG",
+            "birthdate": "04/23/99",
+            "sex": "Female",
+            "email": "chaeyo.0@web.com",
+            "cpno": "0922535478",
+            "region": "REGION IV-A",
+            "province": "RIZAL",
+            "city": "CAINTA",
+            "brgy": "SAN JUAN",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/ch.jpg"
+        },
+        {
+            "id": "023A-00009",
+            "name": "CHOU TZUYU",
+            "birthdate": "06/14/99",
+            "sex": "Female",
+            "email": "thinkaboutzu@web.com",
+            "cpno": "09465335240",
+            "region": "REGION IV-A",
+            "province": "QUEZON",
+            "city": "LUCENA CITY",
+            "brgy": "IBABANG DUPAY",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/tzu.jpg"
+        },
+        {
+            "id": "023A-00001",
+            "name": "PARK JI SOO",
+            "birthdate": "02/01/97",
+            "sex": "Female",
+            "email": "zyozyo@web.com",
+            "cpno": "09685534265",
+            "region": "REGION IV-A",
+            "province": "QUEZON",
+            "city": "LUCENA CITY",
+            "brgy": "MARKET VIEW",
+            "image_path": "C:/Users/queja/Documents/ITCS102/IT1C/ENALLO/zyozyo.jpeg"
+        }
+    ]
+}
